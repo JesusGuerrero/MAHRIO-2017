@@ -5,7 +5,7 @@ import { MainComponent } from './main.component';
 import { ErrorComponent } from './error/error.component';
 //import { MarketingModule } from 'mahrio-lms/marketing';
 //import { StudentModule } from 'mahrio-lms/student';
-import { InstructorModule } from 'mahrio-lms/instructor';
+import { InstructorModule } from './_instructor/instructor.module'; //mahrio-lms/instructor'
 //import { OwnerModule } from 'mahrio-lms/owner';
 //import { MahrioAPI } from 'mahrio/api';
 
@@ -30,4 +30,3 @@ import { InstructorModule } from 'mahrio-lms/instructor';
 });
 
 export class MainModule { }
-
