@@ -1,6 +1,6 @@
 import { InstructorComponent } from './instructor.component';
 
-const InstructorRoutes = [
+export const InstructorRoutes = [
   {
     path: 'instructor',
     component: InstructorComponent
