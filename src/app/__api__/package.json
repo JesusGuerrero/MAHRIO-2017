@@ -1,0 +1,8 @@
+{
+  "name": "mahrio-api-service",
+  "version": "1.0",
+  "dependencies": {
+    "q": "~1.4.1",
+    "whatwg-fetch": "~1.0.0"
+  }
+}
