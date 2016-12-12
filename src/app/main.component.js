@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
 
+import template from './main.template.html';
+
 @Component({
   selector: 'main-app',
-  template: `
-    <h1>Hello</h1>
-  `
+  template
 })
 
 export class MainComponent {}
